@@ -1,1 +1,1 @@
-Hello, fun fact: HexForge made fully on rust
+Привет, кстати, HexForge полностью сделан на языке rust
